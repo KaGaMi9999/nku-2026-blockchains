@@ -16,7 +16,7 @@ Blockchains
       - keygen.py：生成私钥和地址
     - documents
       - ObtainTestcoin：解压后的文件夹（含环境配置说明.txt、keygen.py、老师下发的说明 PDF）
-      - ObtainTestcoin.rar、ObtainTestcoin(1).rar：老师下发的压缩包
+      - ObtainTestcoin.rar：老师下发的压缩包
     - Myreports
       - 信息.txt：生成的私钥、地址与领币记录
       - 密钥生成.png：运行 keygen.py 脚本的结果
