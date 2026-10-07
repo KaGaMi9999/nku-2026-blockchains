@@ -129,7 +129,7 @@ d3adf29cbff2aaab2d19c2ef2d817d0f1e0e93e771df3fb5ae8057ba9ce55122
 
 链上查询可知，这笔交易把 0.00010000 tBTC（10000 聪）作为输入，向 P2SH 多签地址 `2MtEmaqpYVu7BgcjjEmCVUB4jZdDxWk72pf` 的 **0 号输出**写入了 **9000 聪**，差额 1000 聪作为手续费。
 
-![锁仓交易记录](B:\Homework\Blockchains\Lab\Ex2\Myreports\Ex2a交易.jpg)
+![锁仓交易记录](B:\Homework\Blockchains\Lab\Ex2\Myreports\Ex2a.jpg)
 
 <br>
 
